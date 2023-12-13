@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "41E4C0DA-97A6-463D-A60D-60D0F7B4E1D8"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4CC7671F-C03E-462C-9143-059B47ACB6D9"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Combine_Sample/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "77"
+            endingLineNumber = "77"
+            landmarkName = "callNetworkManager()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "4CC7671F-C03E-462C-9143-059B47ACB6D9 - d7011e879d4ea6b7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Combine_Sample.CategoriesResponse) -&gt; () in Combine_Sample.ViewController.callNetworkManager() -&gt; ()"
+                  moduleName = "Combine_Sample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/padmajapathada/Documents/Documents/XcodeProjects/Combine_Sample/Combine_Sample/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "77"
+                  endingLineNumber = "77"
+                  offsetFromSymbolStart = "60">
+               </Location>
+               <Location
+                  uuid = "4CC7671F-C03E-462C-9143-059B47ACB6D9 - 7430b9bdc6c00654"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Combine_Sample.ProductsResponse) -&gt; () in Combine_Sample.ViewController.callNetworkManager() -&gt; ()"
+                  moduleName = "Combine_Sample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/padmajapathada/Documents/Documents/XcodeProjects/Combine_Sample/Combine_Sample/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "77"
+                  endingLineNumber = "77"
+                  offsetFromSymbolStart = "60">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
